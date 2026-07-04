@@ -633,12 +633,6 @@ gacha/
 
 ---
 
-## 📜 License
-
-This project is open-sourced under the [MIT License](LICENSE).
-
----
-
 ## 🤝 Contributing
 
 1. Fork the repository
